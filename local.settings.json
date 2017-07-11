@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Value": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "LOCATION": "London ,uk",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=fullstackstorage;AccountKey=PrBIBoQEIkFCBGde1ns1HNyaFGD/ONRWKsdz8qh5BFuy0B0GP5iOi+z0+6TZEykamPXe8ziDIWyzwQEaHzyGcg==",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=fullstackstorage;AccountKey=PrBIBoQEIkFCBGde1ns1HNyaFGD/ONRWKsdz8qh5BFuy0B0GP5iOi+z0+6TZEykamPXe8ziDIWyzwQEaHzyGcg==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=fullstackstorage;AccountKey=PrBIBoQEIkFCBGde1ns1HNyaFGD/ONRWKsdz8qh5BFuy0B0GP5iOi+z0+6TZEykamPXe8ziDIWyzwQEaHzyGcg==",
+    "API_KEY": "f1972838fdad93a694b8562b690e92d4",
+    "WEBSITE_CONTENTSHARE": "fullstack2017b200",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=fullstackstorage;AccountKey=PrBIBoQEIkFCBGde1ns1HNyaFGD/ONRWKsdz8qh5BFuy0B0GP5iOi+z0+6TZEykamPXe8ziDIWyzwQEaHzyGcg==",
+    "WEBSITE_SITE_NAME": "fullstack2017",
+    "fullstackstorage_STORAGE": "DefaultEndpointsProtocol=https;AccountName=fullstackstorage;AccountKey=PrBIBoQEIkFCBGde1ns1HNyaFGD/ONRWKsdz8qh5BFuy0B0GP5iOi+z0+6TZEykamPXe8ziDIWyzwQEaHzyGcg=="
+  }
+}
