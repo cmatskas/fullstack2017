@@ -12,8 +12,8 @@
     "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=fullstackstorage;AccountKey=PrBIBoQEIkFCBGde1ns1HNyaFGD/ONRWKsdz8qh5BFuy0B0GP5iOi+z0+6TZEykamPXe8ziDIWyzwQEaHzyGcg==",
     "API_KEY": "f1972838fdad93a694b8562b690e92d4",
     "WEBSITE_CONTENTSHARE": "fullstack2017b200",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=fullstackstorage;AccountKey=PrBIBoQEIkFCBGde1ns1HNyaFGD/ONRWKsdz8qh5BFuy0B0GP5iOi+z0+6TZEykamPXe8ziDIWyzwQEaHzyGcg==",
+    "AzureWebJobsStorage": "",
     "WEBSITE_SITE_NAME": "fullstack2017",
-    "fullstackstorage_STORAGE": "DefaultEndpointsProtocol=https;AccountName=fullstackstorage;AccountKey=PrBIBoQEIkFCBGde1ns1HNyaFGD/ONRWKsdz8qh5BFuy0B0GP5iOi+z0+6TZEykamPXe8ziDIWyzwQEaHzyGcg=="
+    "fullstackstorage_STORAGE": ""
   }
 }
