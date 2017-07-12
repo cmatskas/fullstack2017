@@ -9,11 +9,10 @@
     "StorageConnectionString": "",
     "AzureWebJobsDashboard": "",
     "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
-    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": ",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "",
     "API_KEY": "",
     "WEBSITE_CONTENTSHARE": "fullstack2017b200",
     "AzureWebJobsStorage": "",
     "WEBSITE_SITE_NAME": "fullstack2017",
-    "fullstackstorage_STORAGE": ""
   }
 }
