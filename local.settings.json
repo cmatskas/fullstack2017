@@ -1,18 +1,10 @@
 {
   "IsEncrypted": false,
-  "Value": {
-    "WEBSITE_SLOT_NAME": "Production",
-    "FUNCTIONS_EXTENSION_VERSION": "~1",
-    "ScmType": "None",
+  "Values": {
     "LOCATION": "London ,uk",
-    "WEBSITE_AUTH_ENABLED": "False",
     "StorageConnectionString": "",
     "AzureWebJobsDashboard": "",
-    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
-    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "",
     "API_KEY": "",
-    "WEBSITE_CONTENTSHARE": "fullstack2017b200",
-    "AzureWebJobsStorage": "",
-    "WEBSITE_SITE_NAME": "fullstack2017",
+    "AzureWebJobsStorage": ""
   }
 }
